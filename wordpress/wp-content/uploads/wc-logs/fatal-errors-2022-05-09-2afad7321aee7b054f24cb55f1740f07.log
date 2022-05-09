@@ -1,0 +1,2 @@
+2022-05-09T10:48:47+00:00 CRITICAL Out of memory (allocated 79691776) (tried to allocate 32768 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\templates-patterns-collection\vendor\codeinwp\themeisle-sdk\src\Modules\Translate.php on line 31
+

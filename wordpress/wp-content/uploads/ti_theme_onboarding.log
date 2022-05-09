@@ -1,0 +1,18 @@
+[29/Apr/2022:11:25:21] (I): WordPress Instance Info:
+[29/Apr/2022:11:25:21] (I): Home URL : http://localhost/wordpress
+[29/Apr/2022:11:25:21] (I): Site URL : http://localhost/wordpress
+[29/Apr/2022:11:25:21] (I): WordPress Version : 5.9.3
+[29/Apr/2022:11:25:21] (I): Onboarding Version : 1.1.21
+[29/Apr/2022:11:25:21] (I): Multisite : No
+[29/Apr/2022:11:25:21] (I): Server Info : Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4
+[29/Apr/2022:11:25:21] (I): PHP Version : 8.1.4
+[29/Apr/2022:11:25:21] (I): HTTPS : No
+[29/Apr/2022:11:25:21] (I): PHP Max Execution Time : 120
+[29/Apr/2022:11:25:21] (I): PHP Max Input Vars : 1000
+[29/Apr/2022:11:25:21] (I): Max Upload Size : 41943040
+[29/Apr/2022:11:25:21] (I): Plugins:
+[29/Apr/2022:11:25:21] (I): [PLUGIN] Starter Templates : v3.1.8 (Brainstorm Force)
+[29/Apr/2022:11:25:21] (I): [PLUGIN] Elementor : v3.6.5 (Elementor.com)
+[29/Apr/2022:11:25:21] (I): [PLUGIN] Essential Addons for Elementor : v5.1.1 (WPDeveloper)
+[29/Apr/2022:11:25:21] (I): [PLUGIN] Templates Patterns Collection : v1.1.21 (ThemeIsle)
+[29/Apr/2022:11:25:21] (I): [PLUGIN] WPForms Lite : v1.7.4 (WPForms)
